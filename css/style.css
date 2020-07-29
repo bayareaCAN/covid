@@ -540,7 +540,7 @@ a {
     font-weight: 900;
     color: #fff;
     text-transform: uppercase;
-    font-size: 1.5rem; }
+    font-size: 2rem; }
     @media (min-width: 992px) {
       .site-blocks-cover h1 {
         font-size: 4rem;
