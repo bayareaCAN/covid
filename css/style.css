@@ -347,8 +347,7 @@ a {
   background: transparent !important;
   position: fixed;
   z-index: 99;
-  width: 100%;
-  padding: 20px 0;
+  width: 120%;
   margin-bottom: 113px;
   left: 0;
   -webkit-transition: .3s all ease;
